@@ -331,7 +331,7 @@
   },
   {
     "channelName": "Red Bull TV",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
     "country": "AT",
     "categories": ["sports"],
@@ -2101,7 +2101,7 @@
   },
   {
     "channelName": "MCS",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
     "country": "MM",
     "categories": ["entertainment"],
@@ -3032,7 +3032,7 @@
 
   {
     "channelName": "ABC News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3042,7 +3042,7 @@
   },
   {
     "channelName": "Al Jazeera English",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3052,7 +3052,7 @@
   },
   {
     "channelName": "BBC News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3062,7 +3062,7 @@
   },
   {
     "channelName": "Bloomberg",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://bloomberg.com/media-manifest/streams/us.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3072,7 +3072,7 @@
   },
   {
     "channelName": "Bloomberg+",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3082,7 +3082,7 @@
   },
   {
     "channelName": "CBS News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3092,7 +3092,7 @@
   },
   {
     "channelName": "Channel News Asia",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3102,7 +3102,7 @@
   },
   {
     "channelName": "Cheddar News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3112,7 +3112,7 @@
   },
   {
     "channelName": "CNBC",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://www.youtube.com/embed/9NyxcX3rhQs?autoplay=1",
     "country": "US",
     "categories": ["news"],
@@ -3122,7 +3122,7 @@
   },
   {
     "channelName": "CNN International",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3132,7 +3132,7 @@
   },
   {
     "channelName": "DW English",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3142,7 +3142,7 @@
   },
   {
     "channelName": "Euronews",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3152,7 +3152,7 @@
   },
   {
     "channelName": "France 24 English",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3162,7 +3162,7 @@
   },
   {
     "channelName": "GB News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3172,7 +3172,7 @@
   },
   {
     "channelName": "Global News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91",
     "country": "US",
     "categories": ["news"],
@@ -3182,7 +3182,7 @@
   },
   {
     "channelName": "i24 News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3192,7 +3192,7 @@
   },
   {
     "channelName": "LiveNOW from FOX",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3202,7 +3202,7 @@
   },
   {
     "channelName": "NBC News Now",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3212,7 +3212,7 @@
   },
   {
     "channelName": "Newsmax TV",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3222,7 +3222,7 @@
   },
   {
     "channelName": "NHK World Japan",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3232,7 +3232,7 @@
   },
   {
     "channelName": "RT",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3242,7 +3242,7 @@
   },
   {
     "channelName": "Sky News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3252,7 +3252,7 @@
   },
   {
     "channelName": "Scripps News",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3262,7 +3262,7 @@
   },
   {
     "channelName": "The Guardian",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3272,7 +3272,7 @@
   },
   {
     "channelName": "TRT World",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "country": "US",
     "categories": ["news"],
@@ -3282,7 +3282,7 @@
   },
   {
     "channelName": "Yahoo! Finance",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
     "link": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
     "country": "US",
     "categories": ["news"],
