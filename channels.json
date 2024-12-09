@@ -1,9 +1,3293 @@
 [
   {
+    "channelName": "AMC",
+    "channelLogo": "https://i.imgur.com/qRrOi3t.png",
+    "link": "https://amchls.wns.live/hls/stream.m3u8",
+    "country": "AF",
+    "categories": ["music"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Dunya Naw TV",
+    "channelLogo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "link": "https://dunyanhls.wns.live/hls/stream.m3u8",
+    "country": "AF",
+    "categories": ["general"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Eslah TV",
+    "channelLogo": "https://i.imgur.com/To7VnsA.png",
+    "link": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "country": "AF",
+    "categories": ["religious"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RTA News",
+    "channelLogo": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+    "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+    "country": "AF",
+    "categories": ["news"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Tamadon TV",
+    "channelLogo": "https://i.imgur.com/edGyj5H.png",
+    "link": "https://hls.tamadon.live/hls/stream.m3u8",
+    "country": "AF",
+    "categories": ["news"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Sharq Radio TV",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/440px-Sharq_TV_Logo_2020.jpg",
+    "link": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+    "country": "AF",
+    "categories": ["general"],
+    "languages": ["afg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AlbKanale Music TV",
+    "channelLogo": "https://i.imgur.com/JdKxscs.png",
+    "link": "https://albportal.net/albkanalemusic.m3u8",
+    "country": "AL",
+    "categories": ["music"],
+    "languages": ["ala"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Kanali 7",
+    "channelLogo": "https://i.imgur.com/rL2v9pM.png",
+    "link": "https://fe.tring.al/delta/105/out/u/1200_1.m3u8",
+    "country": "AL",
+    "categories": ["news"],
+    "languages": ["ala"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ora News",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+    "link": "https://live1.mediadesk.al/oranews.m3u8",
+    "country": "AL",
+    "categories": ["news"],
+    "languages": ["ala"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal Algérie",
+    "channelLogo": "https://i.imgur.com/VEb631f.png",
+    "link": "https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8",
+    "country": "DZ",
+    "categories": [""],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "KK TV",
+    "channelLogo": "https://i.imgur.com/gTabgkN.jpg",
+    "link": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+    "country": "AO",
+    "categories": ["religious"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Muzangala TV",
+    "channelLogo": "https://i.imgur.com/fBeaJoS.png",
+    "link": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+    "country": "AO",
+    "categories": ["music"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aire de Santa Fe",
+    "channelLogo": "https://i.imgur.com/60vSWW0.png",
+    "link": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+    "country": "AR",
+    "categories": ["general"],
+    "languages": ["arg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AlternaTV",
+    "channelLogo": "https://alternatv.ar/alternatv.png",
+    "link": "https://alternatv.ar/stream/hls/live.m3u8",
+    "country": "AR",
+    "categories": [""],
+    "languages": ["arg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Antena 91",
+    "channelLogo": "https://i.imgur.com/HAJxHcV.png",
+    "link": "https://tuvideoonline.com.ar:3393/live/antena91live.m3u8",
+    "country": "AR",
+    "categories": [""],
+    "languages": ["arg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Argentinísima Satelital",
+    "channelLogo": "https://i.imgur.com/xFgJawa.png",
+    "link": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+    "country": "AR",
+    "categories": ["general"],
+    "languages": ["arg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Misiones Cuatro",
+    "channelLogo": "https://i.imgur.com/HXRpRlK.png",
+    "link": "https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8",
+    "country": "AR",
+    "categories": ["general"],
+    "languages": ["arg"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ARTN TV",
+    "channelLogo": "https://i.imgur.com/xd6zuuw.png",
+    "link": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
+    "country": "AM",
+    "categories": ["general"],
+    "languages": ["arm"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "First Channel News",
+    "channelLogo": "https://i.imgur.com/RlYJUH4.png",
+    "link": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+    "country": "AM",
+    "categories": ["news"],
+    "languages": ["arm"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cool FM 98.9",
+    "channelLogo": "https://i.imgur.com/uGE6lZ2.png",
+    "link": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "country": "AW",
+    "categories": ["music"],
+    "languages": ["nld"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Heart Radio Aruba",
+    "channelLogo": "https://i.imgur.com/MKZCskA.png",
+    "link": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+    "country": "AW",
+    "categories": ["music"],
+    "languages": ["nld"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "VIP TV",
+    "channelLogo": "https://i.imgur.com/6N0qITv.png",
+    "link": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+    "country": "AW",
+    "categories": ["music"],
+    "languages": ["nld"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC Me",
+    "channelLogo": "https://i.imgur.com/6NyFLAm.png",
+    "link": "https://c.mjh.nz/abc-me.m3u8",
+    "country": "AU",
+    "categories": ["education"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bloomberg TV",
+    "channelLogo": "https://i.imgur.com/OuogLHx.png",
+    "link": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+    "country": "AU",
+    "categories": ["business"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Channel 44",
+    "channelLogo": "https://i.imgur.com/P2wUGh9.png",
+    "link": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+    "country": "AU",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Hope Channel",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/9/9d/HopeChannelFVweb.png",
+    "link": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+    "country": "AU",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Racing",
+    "channelLogo": "https://i.imgur.com/Q55HX1O.png",
+    "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "country": "AU",
+    "categories": ["sports"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ticker News",
+    "channelLogo": "https://i.imgur.com/z7M0QxV.png",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+    "country": "AU",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TVSN",
+    "channelLogo": "https://i.imgur.com/lmoAFm3.png",
+    "link": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "country": "AU",
+    "categories": ["shop"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "FUEL TV",
+    "channelLogo": "https://i.imgur.com/I8mviBy.png",
+    "link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8",
+    "country": "AT",
+    "categories": ["sports"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "K-TV",
+    "channelLogo": "https://i.imgur.com/RYbR4Sf.png",
+    "link": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "country": "AT",
+    "categories": [""],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Kronehit",
+    "channelLogo": "https://i.imgur.com/dQJQv1X.png",
+    "link": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "country": "AT",
+    "categories": ["music"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Okto TV",
+    "channelLogo": "https://i.imgur.com/9XfhgbS.png",
+    "link": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+    "country": "AT",
+    "categories": [""],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Red Bull TV",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "country": "AT",
+    "categories": ["sports"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV 1 Oberösterreich",
+    "channelLogo": "https://i.imgur.com/KbMkEIn.png",
+    "link": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "country": "AT",
+    "categories": [""],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AZ News",
+    "channelLogo": "https://i.imgur.com/Kw17XfP.png",
+    "link": "https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8",
+    "country": "AZ",
+    "categories": ["news"],
+    "languages": ["aze"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Az TV",
+    "channelLogo": "https://i.imgur.com/snBMMeH.png",
+    "link": "https://str.yodacdn.net/aztv/index.m3u8",
+    "country": "AZ",
+    "categories": ["general"],
+    "languages": ["aze"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ekushey TV",
+    "channelLogo": "https://i.imgur.com/lRpkGHj.png",
+    "link": "https://ekusheyserver.com/etvlivesn.m3u8",
+    "country": "BD",
+    "categories": ["news"],
+    "languages": ["bgd"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CBC TV8",
+    "channelLogo": "https://i.imgur.com/WsD83lq.png",
+    "link": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8",
+    "country": "BB",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "СТБ",
+    "channelLogo": "https://i.imgur.com/DCbfsyW.png",
+    "link": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "country": "BY",
+    "categories": [""],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bel RTL",
+    "channelLogo": "https://i.imgur.com/vJlAZsV.png",
+    "link": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+    "country": "BE",
+    "categories": ["music"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afrika Media TV",
+    "channelLogo": "https://i.imgur.com/9UmR6cs.png",
+    "link": "https://goccn.cloud/hls/belafrikatv/index.m3u8",
+    "country": "BE",
+    "categories": ["culture"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "LN24",
+    "channelLogo": "https://i.imgur.com/1EkZRwn.png",
+    "link": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+    "country": "BE",
+    "categories": ["news"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Q-Music",
+    "channelLogo": "https://i.imgur.com/VX5e9Xt.png",
+    "link": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "country": "BE",
+    "categories": ["music"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Stêrk TV",
+    "channelLogo": "https://i.imgur.com/bIheNAI.png",
+    "link": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+    "country": "BE",
+    "categories": ["news"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "VTM",
+    "channelLogo": "https://i.imgur.com/djkPc9w.png",
+    "link": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8",
+    "country": "BE",
+    "categories": [""],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "VTM 2",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png",
+    "link": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8",
+    "country": "BE",
+    "categories": [""],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bénin Web TV",
+    "channelLogo": "https://i.imgur.com/CYy4n0N.png",
+    "link": "https://vdo.pro-fhi.net:3244/stream/play.m3u8",
+    "country": "BJ",
+    "categories": ["news"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal 3 Bénin",
+    "channelLogo": "https://i.imgur.com/WIrVAa2.png",
+    "link": "https://live.creacast.com/bluediamond/stream/playlist.m3u8",
+    "country": "BJ",
+    "categories": [""],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Abya Yala TV",
+    "channelLogo": "https://comteco.com.bo/img/upload/canales/abya-yala.png",
+    "link": "https://master.tucableip.com/abyayalatv/playlist.m3u8",
+    "country": "BO",
+    "categories": ["general"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "MegaTV",
+    "channelLogo": "https://i.imgur.com/3d4uiZF.png",
+    "link": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
+    "country": "BO",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Show Oruro",
+    "channelLogo": "https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png",
+    "link": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+    "country": "BO",
+    "categories": ["general"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Live99FM",
+    "channelLogo": "https://i.imgur.com/U43UrQT.png",
+    "link": "https://media.streambrothers.com:19360/8022/8022.m3u8",
+    "country": "BQ",
+    "categories": ["music"],
+    "languages": ["nld"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BN TV",
+    "channelLogo": "https://i.imgur.com/DUBvfWb.png",
+    "link": "https://rtvbn.tv:8080/live/index.m3u8",
+    "country": "BA",
+    "categories": [""],
+    "languages": ["bos"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RTV Zenica",
+    "channelLogo": "https://i.imgur.com/TKUaflB.png",
+    "link": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "country": "BA",
+    "categories": [""],
+    "languages": ["bos"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Adesso TV",
+    "channelLogo": "https://i.imgur.com/KgetM8j.pn",
+    "link": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "country": "BR",
+    "categories": ["general"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "All Sports",
+    "channelLogo": "https://i.imgur.com/wULpnYR.png",
+    "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+    "country": "BR",
+    "categories": ["sports"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bem TV",
+    "channelLogo": "https://i.imgur.com/ifGQGJx.png",
+    "link": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8",
+    "country": "BR",
+    "categories": ["general"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal Educação",
+    "channelLogo": "https://i.imgur.com/OOB7nrS.png",
+    "link": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "country": "BR",
+    "categories": ["education"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal Gov",
+    "channelLogo": "https://i.imgur.com/rHPY0Yv.png",
+    "link": "https://canalgov-stream.ebc.com.br/index.m3u8",
+    "country": "BR",
+    "categories": ["legislative"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Novo Tempo",
+    "channelLogo": "https://i.imgur.com/exdDHml.png",
+    "link": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "country": "BR",
+    "categories": ["religious"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CBN TV",
+    "channelLogo": "https://i.imgur.com/uHvE04N.png",
+    "link": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "country": "VG",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Evrokom",
+    "channelLogo": "https://i.imgur.com/8LPtPf6.png",
+    "link": "https://live.ecomservice.bg/hls/stream.m3u8",
+    "country": "BG",
+    "categories": ["movies"],
+    "languages": ["bul"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Hope Channel",
+    "channelLogo": "https://www.lyngsat.com/logo/tv/hh/hope-channel-bulgaria-us-bg.png",
+    "link": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+    "country": "BG",
+    "categories": ["religious"],
+    "languages": ["bul"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RM TV",
+    "channelLogo": "https://rmtv.bg/img/logo.png",
+    "link": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+    "country": "BG",
+    "categories": [""],
+    "languages": ["bul"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Burkina Info TV",
+    "channelLogo": "https://i.imgur.com/a9v5CbU.png",
+    "link": "http://69.64.57.208/burkinainfo/index.m3u8",
+    "country": "BF",
+    "categories": [""],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Apsara TV11",
+    "channelLogo": "https://i.imgur.com/a9v5CbU.png",
+    "link": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+    "country": "KH",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bayon TV",
+    "channelLogo": "https://i.imgur.com/Gry2KEN.jpg",
+    "link": "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8",
+    "country": "KH",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Netlink TV",
+    "channelLogo": "https://i.imgur.com/SoBhuIb.png",
+    "link": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8",
+    "country": "KH",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CEN Télévision",
+    "channelLogo": "https://i.ibb.co/2vJfdgN/unnamed.jpg",
+    "link": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8",
+    "country": "CM",
+    "categories": ["general"],
+    "languages": ["ara", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CTV Afrique",
+    "channelLogo": "https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg",
+    "link": "https://stream.it-innov.com/ctv/index.m3u8",
+    "country": "CM",
+    "categories": ["general"],
+    "languages": ["ara", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afghan Nobel Movies",
+    "channelLogo": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "link": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "country": "CA",
+    "categories": ["movies"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afghan Nobel TV",
+    "channelLogo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+    "link": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+    "country": "CA",
+    "categories": ["general"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Amazing Discoveries TV",
+    "channelLogo": "https://i.imgur.com/I0oPFTj.png",
+    "link": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "country": "CA",
+    "categories": ["religious"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Assemblée Nationale du Québec",
+    "channelLogo": "https://i.imgur.com/Eta6gUq.png",
+    "link": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8",
+    "country": "CA",
+    "categories": ["legislative"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Az Star TV",
+    "channelLogo": "https://i.imgur.com/di3XX5L.png",
+    "link": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
+    "country": "CA",
+    "categories": ["general"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal Savoir",
+    "channelLogo": "https://i.imgur.com/QBzvCJc.png",
+    "link": "https://hls.savoir.media/live/stream.m3u8",
+    "country": "CA",
+    "categories": ["general"],
+    "languages": ["fra", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Cidade",
+    "channelLogo": "https://i.imgur.com/gmSu21X.jpg",
+    "link": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+    "country": "CV",
+    "categories": ["music"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Télé Tchad",
+    "channelLogo": "https://i.imgur.com/udSzfHD.png",
+    "link": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+    "country": "TD",
+    "categories": ["general"],
+    "languages": ["ara", "fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "13 Entretención",
+    "channelLogo": "https://i.imgur.com/utI1tJV.png",
+    "link": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+    "country": "CL",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "13 Festival",
+    "channelLogo": "https://i.imgur.com/hTUe0Pw.png",
+    "link": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+    "country": "CL",
+    "categories": ["music"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bread TV面包台",
+    "channelLogo": "https://i.imgur.com/UR9vEIN.png",
+    "link": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+    "country": "CN",
+    "categories": [""],
+    "languages": ["zho"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "VOA美国之音",
+    "channelLogo": "https://i.imgur.com/XCTZkoq.png",
+    "link": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+    "country": "CN",
+    "categories": [""],
+    "languages": ["zho"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Agenda Al Día TV",
+    "channelLogo": "https://i.imgur.com/JFEFVwV.jpg",
+    "link": "https://cp.panelchs.com:1936/8156/8156/playlist.m3u8",
+    "country": "CO",
+    "categories": ["news"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ANC Televisión",
+    "channelLogo": "https://i.imgur.com/xjTU14t.jpg",
+    "link": "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8",
+    "country": "CO",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "¡OPA!",
+    "channelLogo": "https://i.imgur.com/300c1ZH.png",
+    "link": "https://opa.usastreams.com:3101/live/canalopalive.m3u8",
+    "country": "CR",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cristo Visión Canal 31",
+    "channelLogo": "https://i.imgur.com/CFXZ8j0.png",
+    "link": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8",
+    "country": "CR",
+    "categories": ["religious"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Enlace",
+    "channelLogo": "https://i.imgur.com/YwUVTmS.png",
+    "link": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "country": "CR",
+    "categories": ["religious"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CMC TV",
+    "channelLogo": "https://i.imgur.com/FCb7Ag2.png",
+    "link": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "country": "HR",
+    "categories": ["music"],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "HRT 1",
+    "channelLogo": "https://i.imgur.com/lDSctzX.png",
+    "link": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+    "country": "HR",
+    "categories": [""],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "HRT 2",
+    "channelLogo": "https://i.imgur.com/yyePcl1.png",
+    "link": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+    "country": "HR",
+    "categories": [""],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "HRT 3",
+    "channelLogo": "https://i.imgur.com/4OrOJRx.png",
+    "link": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+    "country": "HR",
+    "categories": [""],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Klape i Tambure TV",
+    "channelLogo": "https://i.imgur.com/4OrOJRx.png",
+    "link": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "country": "HR",
+    "categories": ["music"],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "STV",
+    "channelLogo": "https://i.imgur.com/VcNrY0m.png",
+    "link": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+    "country": "HR",
+    "categories": [""],
+    "languages": ["hrv"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Prensa Latina TV",
+    "channelLogo": "https://i.imgur.com/jbm2S9O.jpg",
+    "link": "https://eu1.servers10.com:8081/8192/index.m3u8",
+    "country": "CU",
+    "categories": ["news"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Radio y Televisión Martí",
+    "channelLogo": "https://i.imgur.com/Y7E5OTy.png",
+    "link": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8",
+    "country": "CU",
+    "categories": [""],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ADA TV",
+    "channelLogo": "https://i.imgur.com/YWmkUWU.png",
+    "link": "https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8",
+    "country": "CY",
+    "categories": ["general"],
+    "languages": ["ell", "tur"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Elektrika TV",
+    "channelLogo": "https://i.imgur.com/OLd5od5.png",
+    "link": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+    "country": "CZ",
+    "categories": [""],
+    "languages": ["ces"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "JČ1",
+    "channelLogo": "https://i.imgur.com/AM8YtcV.png",
+    "link": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "country": "CZ",
+    "categories": ["general"],
+    "languages": ["ces"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Minimax",
+    "channelLogo": "https://i.imgur.com/WWOlm1x.png",
+    "link": "http://88.212.7.10/live/test_minimax/playlist.m3u8",
+    "country": "CZ",
+    "categories": ["kids"],
+    "languages": ["ces"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Óčko",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",
+    "link": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "country": "CZ",
+    "categories": ["music"],
+    "languages": ["ces"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV 2 Kosmopol",
+    "channelLogo": "https://i.imgur.com/oVmCoKY.png",
+    "link": "https://cdnapi.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8",
+    "country": "DK",
+    "categories": [""],
+    "languages": ["dan"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV2 Nord",
+    "channelLogo": "https://i.imgur.com/tEJ22UW.png",
+    "link": "https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8",
+    "country": "DK",
+    "categories": [""],
+    "languages": ["dan"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV2 Øst",
+    "channelLogo": "https://i.imgur.com/H9l6Ulw.png",
+    "link": "https://cdnapi.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8",
+    "country": "DK",
+    "categories": [""],
+    "languages": ["dan"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TDN TV",
+    "channelLogo": "https://i.ibb.co/x5gqtmJ/TDN-TV-tvtolive-com.jpg",
+    "link": "https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8",
+    "country": "DM",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Agenda 56",
+    "channelLogo": "https://i.imgur.com/G7zIVB7.png",
+    "link": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8",
+    "country": "DO",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Amé 47",
+    "channelLogo": "https://i.imgur.com/MUEbjeP.png",
+    "link": "https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8",
+    "country": "DO",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bonao TV",
+    "channelLogo": "https://i.imgur.com/en1vCZB.png",
+    "link": "https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8",
+    "country": "DO",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "América Estéreo Guayaquil",
+    "channelLogo": "https://i.imgur.com/gUqKymM.png",
+    "link": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+    "country": "EC",
+    "categories": ["general"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "América Estéreo Ibarra",
+    "channelLogo": "https://i.imgur.com/gUqKymM.png",
+    "link": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+    "country": "EC",
+    "categories": ["general"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alfath Atfal TV",
+    "channelLogo": "https://i.imgur.com/p82RKIq.png",
+    "link": "https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8",
+    "country": "EG",
+    "categories": ["religious"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alfath Sonnah TV",
+    "channelLogo": "https://i.imgur.com/7VYJStp.png",
+    "link": "https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8",
+    "country": "EG",
+    "categories": ["religious"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal 3 Impresionante",
+    "channelLogo": "https://i.imgur.com/mdfiWG9.png",
+    "link": "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8",
+    "country": "SV",
+    "categories": ["general"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "SolTV",
+    "channelLogo": "https://i.imgur.com/TJHk6Va.png",
+    "link": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+    "country": "GQ",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Addis TV",
+    "channelLogo": "https://i.imgur.com/kqHWrZ9.png",
+    "link": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8",
+    "country": "ET",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "EBS Cinema",
+    "channelLogo": "https://i.imgur.com/fewPTFE.png",
+    "link": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
+    "country": "ET",
+    "categories": ["movies"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "EBS HD",
+    "channelLogo": "https://i.imgur.com/AcZliAE.png",
+    "link": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
+    "country": "ET",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AVA",
+    "channelLogo": "https://i.imgur.com/8TR4noi.png",
+    "link": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "country": "FI",
+    "categories": ["entertainment"],
+    "languages": ["fin"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Frii",
+    "channelLogo": "https://i.imgur.com/9sYC2IE.png",
+    "link": "https://live-fi.tvkaista.net/frii/live.m3u8",
+    "country": "FI",
+    "categories": ["religious"],
+    "languages": ["fin"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Himlen TV7",
+    "channelLogo": "https://i.imgur.com/k8a7KNn.png",
+    "link": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "country": "FI",
+    "categories": ["religious"],
+    "languages": ["fin"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "20 Minutes TV",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "link": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8",
+    "country": "FR",
+    "categories": ["general"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "A12 TV",
+    "channelLogo": "https://i.imgur.com/JgnjgvF.png",
+    "link": "https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8",
+    "country": "FR",
+    "categories": ["general"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Albi TV",
+    "channelLogo": "https://i.imgur.com/MJdY1m3.png",
+    "link": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8",
+    "country": "FR",
+    "categories": ["general"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Abaza TV",
+    "channelLogo": "https://i.imgur.com/7Jo7UAf.png",
+    "link": "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8",
+    "country": "GE",
+    "categories": ["general"],
+    "languages": ["kat"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Formula",
+    "channelLogo": "https://i.imgur.com/fsqBn8G.png",
+    "link": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "country": "GE",
+    "categories": ["news"],
+    "languages": ["kat"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Imedi TV",
+    "channelLogo": "https://i.imgur.com/94hNyxZ.png",
+    "link": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+    "country": "GE",
+    "categories": [""],
+    "languages": ["kat"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "1-2-3 TV",
+    "channelLogo": "https://i.imgur.com/slSUDNX.png",
+    "link": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "country": "DE",
+    "categories": ["shop"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Anixe +",
+    "channelLogo": "https://i.imgur.com/hvGJ2oa.png",
+    "link": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8",
+    "country": "DE",
+    "categories": ["entertainment"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Anixe HD Serie",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png",
+    "link": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+    "country": "DE",
+    "categories": ["entertainment"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ARD-alpha",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+    "link": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
+    "country": "DE",
+    "categories": ["education"],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aristo TV",
+    "channelLogo": "https://i.imgur.com/DLVjeno.png",
+    "link": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "country": "DE",
+    "categories": [""],
+    "languages": ["deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ChannelOne TV",
+    "channelLogo": "https://i.imgur.com/XJsN2WR.png",
+    "link": "https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8",
+    "country": "GH",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "GHtv Holland",
+    "channelLogo": "https://i.imgur.com/hOGS5LL.png",
+    "link": "http://37.48.120.77:8080/hls/ghtvonline.m3u8",
+    "country": "GH",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Hope Channel Ghana",
+    "channelLogo": "https://i.imgur.com/d1P9ekm.png",
+    "link": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+    "country": "GH",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ART TV",
+    "channelLogo": "https://i.imgur.com/ZgKZ5u9.jpg",
+    "link": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
+    "country": "GR",
+    "categories": ["general"],
+    "languages": ["ell"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Baraza TV Deep House",
+    "channelLogo": "https://i.imgur.com/TZ1unwF.png",
+    "link": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "country": "GR",
+    "categories": ["music"],
+    "languages": ["ell"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Radio TV Basse-Terre",
+    "channelLogo": "https://i.imgur.com/1gGz3Uw.jpg",
+    "link": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+    "country": "GP",
+    "categories": ["general"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RHT Guadeloupe",
+    "channelLogo": "https://i.imgur.com/lV8M3nn.jpg",
+    "link": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "country": "GP",
+    "categories": ["music"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aurora Media Films",
+    "channelLogo": "https://i.imgur.com/DVC5w6H.png",
+    "link": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "country": "GT",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cavi TV",
+    "channelLogo": "https://i.imgur.com/kwXzUwd.png",
+    "link": "https://helga.iptv2022.com/Cavi_TV/index.m3u8",
+    "country": "GN",
+    "categories": ["general"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "FL Sport",
+    "channelLogo": "https://i.imgur.com/i8o7QEj.png",
+    "link": "https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8",
+    "country": "GY",
+    "categories": ["sports"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Fidele TV",
+    "channelLogo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
+    "link": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
+    "country": "HT",
+    "categories": ["entertainment"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Radio Télé 4VEH",
+    "channelLogo": "https://i.imgur.com/AnOjqaS.png",
+    "link": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "country": "HT",
+    "categories": ["religious"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bloomberg TV Asia",
+    "channelLogo": "https://i.imgur.com/OuogLHx.png",
+    "link": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+    "country": "HK",
+    "categories": ["business"],
+    "languages": ["zho", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bloomberg TV Asia Live Event",
+    "channelLogo": "https://i.imgur.com/OuogLHx.png",
+    "link": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "country": "HK",
+    "categories": ["business"],
+    "languages": ["zho", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "凤凰资讯",
+    "channelLogo": "https://i.imgur.com/mt4h3VO.png",
+    "link": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+    "country": "HK",
+    "categories": ["news"],
+    "languages": ["zho", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "16tv Budapest",
+    "channelLogo": "https://i.imgur.com/04fCzHl.png",
+    "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+    "country": "HU",
+    "categories": ["general"],
+    "languages": ["hun"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ESTV",
+    "channelLogo": "https://i.imgur.com/OCZ8CfK.png",
+    "link": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+    "country": "HU",
+    "categories": ["general"],
+    "languages": ["hun"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RÚV",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png",
+    "link": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+    "country": "IS",
+    "categories": ["general"],
+    "languages": ["isl"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Vísir",
+    "channelLogo": "https://i.imgur.com/07Vlt6i.jpg",
+    "link": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+    "country": "IS",
+    "categories": ["news"],
+    "languages": ["isl"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "9XM",
+    "channelLogo": "https://i.imgur.com/F17QtN2.png",
+    "link": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+    "country": "IN",
+    "categories": ["music"],
+    "languages": ["hin"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aaj Tak",
+    "channelLogo": "https://i.imgur.com/RpIdCB3.png",
+    "link": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "country": "IN",
+    "categories": ["news"],
+    "languages": ["hin"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AKTV",
+    "channelLogo": "https://i.imgur.com/DUY5WXf.png",
+    "link": "https://e.siar.us/live/aktv.m3u8",
+    "country": "ID",
+    "categories": ["general"],
+    "languages": ["ind"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alborz TV",
+    "channelLogo": "https://i.imgur.com/tiHdLlK.png",
+    "link": "https://hls.247box.live/hls/stream.m3u8",
+    "country": "IR",
+    "categories": ["general"],
+    "languages": ["fas"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Abalfadhl TV",
+    "channelLogo": "https://i.ibb.co/cCmjqtQ/logo-2.png",
+    "link": "https://t.northtelecom.org/ABALFADHLTV.m3u8",
+    "country": "IR",
+    "categories": ["religious"],
+    "languages": ["fas"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afaq TV",
+    "channelLogo": "https://i.imgur.com/t7CaTu3.png",
+    "link": "http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8",
+    "country": "IQ",
+    "categories": ["general"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cúla4",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/512px-Cula4_Purple_2022_%281%29.svg.png",
+    "link": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8",
+    "country": "IE",
+    "categories": ["kids"],
+    "languages": ["eng", "gle"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ch 21 ערוץ הקניות",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg",
+    "link": "https://shoppingil-rewriter.vidnt.com/index.m3u8",
+    "country": "IL",
+    "categories": ["shop"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Adnkronos",
+    "channelLogo": "https://i.imgur.com/mEoDAf1.png",
+    "link": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8",
+    "country": "IT",
+    "categories": ["news"],
+    "languages": ["ita"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aurora Arte",
+    "channelLogo": "https://i.imgur.com/Y1Yq3iV.png",
+    "link": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "country": "IT",
+    "categories": ["culture"],
+    "languages": ["ita"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alpha et Omega TV",
+    "channelLogo": "https://i.imgur.com/s9EgQQI.jpg",
+    "link": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+    "country": "CI",
+    "categories": ["religious"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Caribbean Gospel TV",
+    "channelLogo": "https://i.imgur.com/mVQ8J4k.png",
+    "link": "https://5a1178b42cc03.streamlock.net:443/CGTV2024/CGTV2024/playlist.m3u8",
+    "country": "JM",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Fame95 FM",
+    "channelLogo": "https://i.imgur.com/fvtF0qM.png",
+    "link": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
+    "country": "JM",
+    "categories": ["music"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AT-X",
+    "channelLogo": "https://i.imgur.com/turWday.png",
+    "link": "https://neetball.net/live/neet3.m3u8",
+    "country": "JP",
+    "categories": ["animation"],
+    "languages": ["jpn"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CGNTV Japan",
+    "channelLogo": "https://i.imgur.com/5LNZeVq.png",
+    "link": "https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8",
+    "country": "JP",
+    "categories": ["religious"],
+    "languages": ["jpn"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "NTV News24",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png",
+    "link": "https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8",
+    "country": "JP",
+    "categories": ["news"],
+    "languages": ["jpn"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Haqiqa",
+    "channelLogo": "https://i.imgur.com/I9SJ2kr.jpg",
+    "link": "https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8",
+    "country": "JO",
+    "categories": ["religious"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Kaifa TV",
+    "channelLogo": "https://i.imgur.com/zGGeSQg.pn",
+    "link": "hhttp://82.212.74.2:8000/live/7311.m3u8",
+    "country": "JO",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Abai TV",
+    "channelLogo": "https://i.imgur.com/Nw2R7Dq.png",
+    "link": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "country": "KZ",
+    "categories": ["culture"],
+    "languages": ["kaz", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alau TV",
+    "channelLogo": "https://i.imgur.com/gK6ZRzp.png",
+    "link": "https://otv.wotom.net/alau/stream.m3u8",
+    "country": "KZ",
+    "categories": [""],
+    "languages": ["kaz", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Balapan TV",
+    "channelLogo": "https://i.imgur.com/2o5T0gi.png",
+    "link": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "country": "KZ",
+    "categories": ["kids"],
+    "languages": ["kaz", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ontústik",
+    "channelLogo": "https://i.imgur.com/xqr1hjN.png",
+    "link": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
+    "country": "KZ",
+    "categories": [""],
+    "languages": ["kaz", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Semeı",
+    "channelLogo": "https://i.ibb.co/P9V0532/Captura.png",
+    "link": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+    "country": "KZ",
+    "categories": ["general"],
+    "languages": ["kaz", "eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Citizen Extra",
+    "channelLogo": "https://i.imgur.com/16d8NJd.jpg",
+    "link": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8",
+    "country": "KE",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Inooro TV",
+    "channelLogo": "https://i.imgur.com/5qFJtmo.png",
+    "link": "https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8",
+    "country": "KE",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Morning Cloud TV",
+    "channelLogo": "https://i.imgur.com/Lxfd2ip.png",
+    "link": "https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8",
+    "country": "KE",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ramogi TV",
+    "channelLogo": "https://i.imgur.com/N2Uz9mc.jpg",
+    "link": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "country": "KE",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Arbëria 1",
+    "channelLogo": "https://i.imgur.com/zLRzyVS.png",
+    "link": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
+    "country": "XK",
+    "categories": ["general"],
+    "languages": ["sqi", "srp"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Arbëria 2",
+    "channelLogo": "https://i.imgur.com/zLRzyVS.png",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8",
+    "country": "XK",
+    "categories": [""],
+    "languages": ["sqi", "srp"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Arbëria 3 Fëmijë",
+    "channelLogo": "https://i.imgur.com/zLRzyVS.png",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+    "country": "XK",
+    "categories": ["kids"],
+    "languages": ["sqi", "srp"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Arbëria 4 Muzikë",
+    "channelLogo": "https://i.imgur.com/zLRzyVS.png",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+    "country": "XK",
+    "categories": ["music"],
+    "languages": ["sqi", "srp"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Arbëria 5",
+    "channelLogo": "https://i.imgur.com/zLRzyVS.png",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8",
+    "country": "XK",
+    "categories": ["entertainment"],
+    "languages": ["sqi", "srp"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "KTV 1",
+    "channelLogo": "https://i.imgur.com/kG0d8Ay.png",
+    "link": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "country": "KW",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "KTV 2",
+    "channelLogo": "https://i.imgur.com/hB57mNh.png",
+    "link": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "country": "KW",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "KTV Sport",
+    "channelLogo": "https://i.imgur.com/R1hGX1d.png",
+    "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "country": "KW",
+    "categories": ["sports"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "312 Кино",
+    "channelLogo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "link": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "country": "KG",
+    "categories": ["movies"],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "312 TB",
+    "channelLogo": "https://i.ibb.co/9HMNzMz/JPqHwaC.png",
+    "link": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+    "country": "KG",
+    "categories": ["music"],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV1 KG",
+    "channelLogo": "https://i.imgur.com/Mti9t9C.png",
+    "link": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "country": "KG",
+    "categories": [""],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Brian TV",
+    "channelLogo": "https://i.imgur.com/zG1WNgU.jpg",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+    "country": "LA",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Caribbean Hot 7 TV",
+    "channelLogo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
+    "link": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "country": "LB",
+    "categories": ["general"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Mayadeen",
+    "channelLogo": "https://i.imgur.com/GtQOKeW.png",
+    "link": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "country": "LB",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ALWifak News TV",
+    "channelLogo": "https://i.imgur.com/jrQ4w0m.png",
+    "link": "http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8",
+    "country": "LB",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "LNTV",
+    "channelLogo": "https://i.ibb.co/5TdbQH4/LNTV-Liberia-Logo.png",
+    "link": "http://185.59.221.131:8081/live/lntv/playlist.m3u8",
+    "country": "LS",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Masar TV",
+    "channelLogo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQ",
+    "link": "https://master.starmena-cloud.com/hls/almasar.m3u8",
+    "country": "LY",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "M-1",
+    "channelLogo": "https://i.imgur.com/dGhizFW.png",
+    "link": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+    "country": "LT",
+    "categories": [""],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "apart TV",
+    "channelLogo": "https://i.imgur.com/IBcMIcZ.png",
+    "link": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+    "country": "LU",
+    "categories": ["lifestyle"],
+    "languages": ["fra", "deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Chamber TV",
+    "channelLogo": "https://i.imgur.com/YldMnap.jpg",
+    "link": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+    "country": "LU",
+    "categories": ["legislative"],
+    "languages": ["fra", "deu"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Re TV",
+    "channelLogo": "https://i.imgur.com/Z3cre5Xm.png",
+    "link": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+    "country": "LV",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TVNET",
+    "channelLogo": "https://i.imgur.com/jzv1ssE.png",
+    "link": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "country": "LV",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Masar TV",
+    "channelLogo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "link": "https://master.starmena-cloud.com/hls/almasar.m3u8",
+    "country": "LY",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "February Channel",
+    "channelLogo": "https://i.imgur.com/WdMIpsA.png",
+    "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+    "country": "LY",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
     "channelName": "2M Monde",
     "channelLogo": "https://i.imgur.com/MvpntzA.png",
     "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+    "country": "MA",
+    "categories": ["general"],
+    "languages": ["ara"],
     "source": "iptv",
     "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Chada TV",
+    "channelLogo": "https://i.imgur.com/inJyJBN.png",
+    "link": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+    "country": "MA",
+    "categories": ["general"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Télé Maroc",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "link": "https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8",
+    "country": "MA",
+    "categories": ["culture"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Superyacht TV",
+    "channelLogo": "https://i.imgur.com/cgjgjE1.png",
+    "link": "https://sy.wns.live/hls/stream.m3u8",
+    "country": "MC",
+    "categories": ["lifestyle"],
+    "languages": ["fra"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Teuta",
+    "channelLogo": "https://i.imgur.com/sWVqBuW.png",
+    "link": "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8",
+    "country": "ME",
+    "categories": ["general"],
+    "languages": ["eng", "spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Folk Klub",
+    "channelLogo": "https://i.imgur.com/Seq7Od7.png",
+    "link": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+    "country": "MK",
+    "categories": ["music"],
+    "languages": ["sqi"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "INTV Australia",
+    "channelLogo": "https://i.imgur.com/1nJl0Pv.png",
+    "link": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+    "country": "MK",
+    "categories": ["music"],
+    "languages": ["sqi"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Channel K",
+    "channelLogo": "https://i.imgur.com/6PqxuhF.png",
+    "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+    "country": "MM",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Mahar",
+    "channelLogo": "https://i.imgur.com/ig0QECf.png",
+    "link": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+    "country": "MM",
+    "categories": ["movies"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "MCS",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
+    "country": "MM",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "MNTV",
+    "channelLogo": "https://i.imgur.com/nssm7QK.png",
+    "link": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+    "country": "MM",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AfroSport Nigeria",
+    "channelLogo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
+    "link": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+    "country": "NG",
+    "categories": ["sports"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "AMusic Channel",
+    "channelLogo": "https://i.imgur.com/06zuf64.png",
+    "link": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+    "country": "NG",
+    "categories": ["music"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Dove TV",
+    "channelLogo": "https://i.imgur.com/wOlMfCR.png",
+    "link": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8",
+    "country": "NG",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Canal Motor",
+    "channelLogo": "https://i.imgur.com/nCAt3QN.png",
+    "link": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "country": "NO",
+    "categories": ["auto"],
+    "languages": ["nor"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "TV Modum",
+    "channelLogo": "https://i.imgur.com/kljua5X.png",
+    "link": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8",
+    "country": "NO",
+    "categories": ["general"],
+    "languages": ["nor"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alistiqama TV",
+    "channelLogo": "https://i.imgur.com/2FPtYZr.png",
+    "link": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "country": "OM",
+    "categories": ["religious"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Oman Althakafia",
+    "channelLogo": "https://i.imgur.com/b38wNPK.png",
+    "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "country": "OM",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Ehsaan TV",
+    "channelLogo": "https://i.imgur.com/hRzxiJ3.png",
+    "link": "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8",
+    "country": "PK",
+    "categories": ["religious"],
+    "languages": ["urd"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Discover Pakistan",
+    "channelLogo": "https://i.imgur.com/IJH47fJ.png",
+    "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "country": "PK",
+    "categories": ["travel"],
+    "languages": ["urd"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Kuriakos TV",
+    "channelLogo": "https://i.imgur.com/xdAW0D5.png",
+    "link": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "country": "PT",
+    "categories": ["religious"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ON FM",
+    "channelLogo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+    "link": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "country": "PT",
+    "categories": ["music"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "RTP International Asia",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+    "link": "http://210.210.155.37/qwr9ew/s/s38/index.m3u8",
+    "country": "PT",
+    "categories": ["general"],
+    "languages": ["por"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cinema One",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+    "link": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
+    "country": "PH",
+    "categories": ["movies"],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Great Commission TV",
+    "channelLogo": "https://i.imgur.com/8cvikOo.png",
+    "link": "http://45.32.115.103/live/livestream/index.m3u8",
+    "country": "PH",
+    "categories": [""],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "MYX Philippines",
+    "channelLogo": "https://i.imgur.com/pbHuUuV.png",
+    "link": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
+    "country": "PH",
+    "categories": ["music"],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Jazeera Arabic",
+    "channelLogo": "https://i.imgur.com/7bRVpnu.png",
+    "link": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+    "country": "QA",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Jazeera Balkans",
+    "channelLogo": "https://i.imgur.com/vMzCr8O.png",
+    "link": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
+    "country": "QA",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Jazeera English",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+    "link": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+    "country": "QA",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Qatar Television",
+    "channelLogo": "https://i.imgur.com/N5RB4sp.png",
+    "link": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "country": "QA",
+    "categories": ["general"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "7 TV",
+    "channelLogo": "https://i.imgur.com/GpCwqUF.png",
+    "link": "http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8",
+    "country": "RU",
+    "categories": [""],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Kulinar TV Show",
+    "channelLogo": "https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png",
+    "link": "https://api.alpaca.t62a.com/hls/9110/index.m3u8",
+    "country": "RU",
+    "categories": ["cooking"],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ocean TV",
+    "channelLogo": "https://i.imgur.com/zswzDZS.png",
+    "link": "http://camera.global-x.ru/OceanTV/index.m3u8",
+    "country": "RU",
+    "categories": ["news"],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ювелирочка ТВ",
+    "channelLogo": "https://i.imgur.com/IcWtXCZ.png",
+    "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "country": "RU",
+    "categories": ["shop"],
+    "languages": ["rus"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Ekhbariya",
+    "channelLogo": "https://i.imgur.com/WcRlHQm.png",
+    "link": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
+    "country": "SA",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Asharq Discovery",
+    "channelLogo": "https://i.imgur.com/Czxi7yk.png",
+    "link": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "country": "SA",
+    "categories": ["documentary"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Asharq Documentary",
+    "channelLogo": "https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj",
+    "link": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "country": "SA",
+    "categories": ["documentary"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Asharq News",
+    "channelLogo": "https://i.imgur.com/bqRC3sl.png",
+    "link": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
+    "country": "SA",
+    "categories": ["business"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CNA International",
+    "channelLogo": "https://i.imgur.com/xWglicB.png",
+    "link": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "country": "SG",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ZooMoo Asia",
+    "channelLogo": "https://i.imgur.com/ciTJrnl.png",
+    "link": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+    "country": "SG",
+    "categories": ["kids"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABN TV",
+    "channelLogo": "https://www.abn.co.kr/resources/images/logo.png",
+    "link": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+    "country": "KR",
+    "categories": ["general"],
+    "languages": ["kor"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CGNTV",
+    "channelLogo": "https://i.imgur.com/zwZASOB.png",
+    "link": "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8",
+    "country": "KR",
+    "categories": ["religious"],
+    "languages": ["kor"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "CTS기독교TV",
+    "channelLogo": "https://i.imgur.com/z3L8uNB.png",
+    "link": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8",
+    "country": "KR",
+    "categories": ["religious"],
+    "languages": ["kor"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afriwood Series",
+    "channelLogo": "https://i.imgur.com/9NFg3xp.png",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8",
+    "country": "SO",
+    "categories": ["series"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cinema Hausa",
+    "channelLogo": "https://i.imgur.com/uV5cHDW.png",
+    "link": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "country": "SO",
+    "categories": ["movies"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Diva",
+    "channelLogo": "https://i.imgur.com/bgBZgW0.png",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8",
+    "country": "SO",
+    "categories": ["entertainment"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Sports Connect",
+    "channelLogo": "https://i.imgur.com/0sNWg54.png",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
+    "country": "SO",
+    "categories": ["sports"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Beautiful Life TV",
+    "channelLogo": "Beautiful Life TV",
+    "link": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "country": "TW",
+    "categories": ["religious"],
+    "languages": ["zho"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Dali TV",
+    "channelLogo": "https://i.imgur.com/pFIMLsA.png",
+    "link": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "country": "TW",
+    "categories": ["general"],
+    "languages": ["zho"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "IBN TV",
+    "channelLogo": "https://i.imgur.com/y3zq0rw.jpg",
+    "link": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+    "country": "TZ",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Abood TV",
+    "channelLogo": "https://i.imgur.com/vYEUncC.jpg",
+    "link": "https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8",
+    "country": "TZ",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "24 Канал",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+    "link": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+    "country": "UA",
+    "categories": ["news"],
+    "languages": ["ukr"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BamBarBia TV",
+    "channelLogo": "https://i.imgur.com/zdRvy87.png",
+    "link": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+    "country": "UA",
+    "categories": ["travel"],
+    "languages": ["ukr"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Black Sea TV",
+    "channelLogo": "https://i.imgur.com/D8YJzHV.png",
+    "link": "https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8",
+    "country": "UA",
+    "categories": ["general"],
+    "languages": ["ukr"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Alpha Digital",
+    "channelLogo": "https://i.imgur.com/ZlMARQx.jpg",
+    "link": "http://streamfi-alphadgtl1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
+    "country": "UG",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BBS TV",
+    "channelLogo": "https://i.imgur.com/1CIxIGl.png",
+    "link": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8",
+    "country": "UG",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bukedde TV 1",
+    "channelLogo": "https://i.imgur.com/HFq5QlJ.png",
+    "link": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "country": "UG",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "KSTV Uganda",
+    "channelLogo": "https://i.imgur.com/8w1xyHn.png",
+    "link": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8",
+    "country": "UG",
+    "categories": [""],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BBC News (North America)",
+    "channelLogo": "https://i.imgur.com/vSz2WEp.png",
+    "link": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "country": "UK",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BEN Television",
+    "channelLogo": "https://i.imgur.com/DUAjjvT.png",
+    "link": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8",
+    "country": "UK",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bloomberg TV Europe",
+    "channelLogo": "https://i.imgur.com/OuogLHx.png",
+    "link": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "country": "UK",
+    "categories": ["business"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "GB News",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+    "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "country": "UK",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 1",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 2",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 3",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 4",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 5",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 6",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 7",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 8",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 9",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABC News Live 10",
+    "channelLogo": "https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Adult Swim Channel 5",
+    "channelLogo": "https://i.imgur.com/G9TyeCN.png",
+    "link": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "country": "US",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "30A Georgia Hollywood Review TV",
+    "channelLogo": "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
+    "link": "https://30a-tv.com/gh.m3u8",
+    "country": "US",
+    "categories": ["entertainment"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABN China",
+    "channelLogo": "https://i.imgur.com/zagVLQH.png",
+    "link": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "country": "US",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "ABN TV India",
+    "channelLogo": "https://i.imgur.com/VcZn60X.png",
+    "link": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+    "country": "US",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Beach TV Panama City",
+    "channelLogo": "https://i.imgur.com/HCQDvEe.png",
+    "link": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+    "country": "US",
+    "categories": ["travel"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bloomberg TV+ UHD",
+    "channelLogo": "https://i.imgur.com/OuogLHx.png",
+    "link": "https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8",
+    "country": "US",
+    "categories": ["business"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "FOX News Now",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+    "link": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "UCL",
+    "channelLogo": "https://i.imgur.com/BzQphbw.png",
+    "link": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "country": "UY",
+    "categories": [""],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Aguacate TV",
+    "channelLogo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "link": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "country": "VE",
+    "categories": ["entertainment"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "BTA TV",
+    "channelLogo": "https://i.imgur.com/vygOosC.png",
+    "link": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "country": "VE",
+    "categories": ["music"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cantina TV",
+    "channelLogo": "https://i.imgur.com/JWMk2fP.png",
+    "link": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+    "country": "VE",
+    "categories": ["music"],
+    "languages": ["spa"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Bac Ninh TV",
+    "channelLogo": "https://i.postimg.cc/WbrWPpVg/BTV-Bac-Ninh-2021.png",
+    "link": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8",
+    "country": "VN",
+    "categories": [""],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cao Bang TV",
+    "channelLogo": "https://i.imgur.com/dGonewm.png",
+    "link": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
+    "country": "VN",
+    "categories": ["general"],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Dhammasapha TV",
+    "channelLogo": "https://i.imgur.com/TWJgMuE.jpg",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8",
+    "country": "VN",
+    "categories": ["religious"],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Ha Tinh TV",
+    "channelLogo": "https://i.imgur.com/4yIgKKx.png",
+    "link": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8",
+    "country": "VN",
+    "categories": [""],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Little Saigon TV",
+    "channelLogo": "https://i.imgur.com/XyhgeKL.png",
+    "link": "https://media.streambrothers.com:1936/8228/8228/playlist.m3u8",
+    "country": "VN",
+    "categories": ["culture"],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Thai Nguyen TV",
+    "channelLogo": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
+    "link": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
+    "country": "VN",
+    "categories": ["general"],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Tien Giang",
+    "channelLogo": "https://i.imgur.com/yonKxgZ.png",
+    "link": "http://thtg.vn:8001/thtg.m3u8",
+    "country": "VN",
+    "categories": [""],
+    "languages": ["vie"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Almahriah TV",
+    "channelLogo": "https://i.imgur.com/GgEeTNr.png",
+    "link": "https://master.starmena-cloud.com/hls/almahriah.m3u8",
+    "country": "YE",
+    "categories": ["news"],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Yemen Today TV",
+    "channelLogo": "https://i.imgur.com/8TzcJu5.png",
+    "link": "https://video.yementdy.tv/hls/yementoday.m3u8",
+    "country": "YE",
+    "categories": [""],
+    "languages": ["ara"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "1KZN TV",
+    "channelLogo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["family"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Afrobeats TV",
+    "channelLogo": "https://i.imgur.com/u0d5j0C.png",
+    "link": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "country": "ZA",
+    "categories": ["music"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cape Town TV",
+    "channelLogo": "https://i.imgur.com/Y8FK1Kk.png",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["general"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "GOD TV Africa",
+    "channelLogo": "https://i.imgur.com/hW4g2oe.png",
+    "link": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Hilaal TV",
+    "channelLogo": "https://i.imgur.com/tlylDbi.png",
+    "link": "https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["religious"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "SABC News",
+    "channelLogo": "https://i.imgur.com/liLta8j.png",
+    "link": "http://185.59.221.131:8081/live/sabcnews/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Soweto TV",
+    "channelLogo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "country": "ZA",
+    "categories": ["family"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "MYX Philippines",
+    "channelLogo": "https://i.imgur.com/pbHuUuV.png",
+    "link": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
+    "country": "PH",
+    "categories": ["music"],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Great Commission TV",
+    "channelLogo": "https://i.imgur.com/8cvikOo.png",
+    "link": "http://45.32.115.103/live/livestream/index.m3u8",
+    "country": "PH",
+    "categories": [""],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Cinema One",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+    "link": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
+    "country": "PH",
+    "categories": ["movies"],
+    "languages": ["eng", "fil", "ceb"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+
+  {
+    "channelName": "ABC News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://abcnews.go.com/Contact"
+  },
+  {
+    "channelName": "Al Jazeera English",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://network.aljazeera.net/en/contact"
+  },
+  {
+    "channelName": "BBC News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.bbc.co.uk/contact/questions/getting-in-touch/contact-bbc"
+  },
+  {
+    "channelName": "Bloomberg",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.bloomberg.com/professional/support/"
+  },
+  {
+    "channelName": "Bloomberg+",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.bloomberg.com/professional/support/"
+  },
+  {
+    "channelName": "CBS News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.cbs.com/showfeedback/"
+  },
+  {
+    "channelName": "Channel News Asia",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.channelnewsasia.com/contact-us"
+  },
+  {
+    "channelName": "Cheddar News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.cheddar.com/media/about-cheddar/"
+  },
+  {
+    "channelName": "CNBC",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://www.youtube.com/embed/9NyxcX3rhQs?autoplay=1",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "youtube",
+    "contactpage": "https://help.cnbc.com/contact/"
+  },
+  {
+    "channelName": "CNN International",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://help.cnn.com/us/Feedback"
+  },
+  {
+    "channelName": "DW English",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://corporate.dw.com/en/contact/s-30606"
+  },
+  {
+    "channelName": "Euronews",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.euronews.com/contact"
+  },
+  {
+    "channelName": "France 24 English",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.francemediasmonde.com/en/contact"
+  },
+  {
+    "channelName": "GB News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.gbnews.com/about-us/contact-us"
+  },
+  {
+    "channelName": "Global News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://globalnews.ca/pages/contact-us/"
+  },
+  {
+    "channelName": "i24 News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.i24news.tv/en/contact"
+  },
+  {
+    "channelName": "LiveNOW from FOX",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.livenowfox.com/contact-us"
+  },
+  {
+    "channelName": "NBC News Now",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.nbcnews.com/information/nbc-news-info/contact-us-n1232521"
+  },
+  {
+    "channelName": "Newsmax TV",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.newsmax.com/contact/"
+  },
+  {
+    "channelName": "NHK World Japan",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www3.nhk.or.jp/nhkworld/en/contact/"
+  },
+  {
+    "channelName": "RT",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.rt.com/about-us/contact-info/"
+  },
+  {
+    "channelName": "Sky News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.skynews.com.au/yoursay-contact-sky-news"
+  },
+  {
+    "channelName": "Scripps News",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://support.scrippsnews.com/support/tickets/new"
+  },
+  {
+    "channelName": "The Guardian",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.theguardian.com/help/contact-us"
+  },
+  {
+    "channelName": "TRT World",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://www.trtworld.com/contact"
+  },
+  {
+    "channelName": "Yahoo! Finance",
+    "channelLogo": "https://raw.githubusercontent.com/a-ellah/tv/refs/heads/main/tv/2MAR.png",
+    "link": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+    "country": "US",
+    "categories": ["news"],
+    "languages": ["eng"],
+    "source": "iptv",
+    "contactpage": "https://yahoo.uservoice.com/forums/382977"
   }
 ]
